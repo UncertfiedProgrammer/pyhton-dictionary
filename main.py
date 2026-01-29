@@ -10,3 +10,6 @@ if word in meme_dict.keys():
     print(meme_dict[word])
 else:
     print("this word doesn't exist in the dictionary")
+
+
+print("fish")
